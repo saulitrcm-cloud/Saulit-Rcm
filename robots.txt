@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://saulitrcm-cloud.github.io/saulit-rcm/sitemap.xml
