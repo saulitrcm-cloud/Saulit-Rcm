@@ -1,3 +1,7 @@
 <svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="180" height="180" rx="36" fill="#FF3C00"/>
+  <!-- Navy rounded square background matching Saulit RCM brand -->
+  <rect width="180" height="180" rx="36" fill="#1a3a6b"/>
+  <!-- Medical cross in teal -->
+  <rect x="72" y="38" width="36" height="104" rx="9" fill="#0ab5b2"/>
+  <rect x="38" y="72" width="104" height="36" rx="9" fill="#0ab5b2"/>
 </svg>
